@@ -1,0 +1,3 @@
+# Mark the frontend as documentation so it doesn't dominate language stats
+frontend/** linguist-documentation
+node_modules/** linguist-vendored
